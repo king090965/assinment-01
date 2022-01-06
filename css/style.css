@@ -21,6 +21,7 @@ h1{
       red, 
       rgba(0, 0, 0, 0)
     ) 1 100%;
+    text-align: center;
 }
     
     
@@ -61,4 +62,33 @@ a:hover{
 .person-img{
     width: 600px;
     float: right;
+}
+.ele{
+    display: inline-flex;
+    margin: 0 30px;
+    
+}
+.mvg {
+    width: 30%;
+    padding: 50px;
+    margin: 50px;
+    
+    border-radius: 10px;
+
+    
+}
+.img{
+    width: 300px;
+    
+    display: inline-block;
+}
+#mission{
+    background-color: lightpink;
+}
+#vission{
+    background-color: lightsalmon;
+
+}
+#goals{
+    background-color: lightskyblue;
 }
