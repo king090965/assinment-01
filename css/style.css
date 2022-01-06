@@ -117,6 +117,26 @@ a:hover{
 
 
 }
+.Community{
+    display: inline-flex;
+    margin-top: 100px;
+
+}
+.text{
+    width: 50%;
+    
+    font-size:40px ;
+    padding-left: 50px;
+}
+.pro-img{
+    width: 500px;
+    padding-left: 200px;
+    background-image: url(../images/shape-1.png);
+    background-size: 500px;
+    background-position: right;
+    background-repeat: no-repeat;
+    padding-right: 200px;
+}
     
     
 
