@@ -137,7 +137,17 @@ a:hover{
     background-repeat: no-repeat;
     padding-right: 200px;
 }
+footer p{
+    width: 100%;
+    height: 100px;
+    background-color: blueviolet;
+    text-align: center;
+    padding-top: 30px;
     
+}
+.last{
+    color:lightsalmon;
+}
     
 
 
