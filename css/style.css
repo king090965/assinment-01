@@ -92,3 +92,34 @@ a:hover{
 #goals{
     background-color: lightskyblue;
 }
+.limits {
+    
+    display:inline-flex;
+    margin:100px;
+
+}
+.half{
+    
+}
+.code-img{
+    width: 500px;
+    padding-left: 200px;
+    background-image: url(../images/shape-1.png);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    padding-right: 200px;
+
+    
+}
+.half-text{
+    
+    font-size: 40px;
+
+
+}
+    
+    
+
+
+    
+
